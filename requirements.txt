@@ -1,0 +1,5 @@
+tweepy
+requests
+textblob
+python-dotenv
+flask
